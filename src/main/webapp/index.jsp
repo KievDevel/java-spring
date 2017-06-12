@@ -45,5 +45,30 @@
         Board of Managers
     </div>
 </a>
+<a href="${pageContext.request.contextPath}knowledgebase">
+    <div>
+        Knowledge Base
+    </div>
+</a>
+<a href="${pageContext.request.contextPath}administrators">
+    <div>
+        Administrators
+    </div>
+</a>
+<a href="${pageContext.request.contextPath}budget">
+    <div>
+        Budget
+    </div>
+</a>
+<a href="${pageContext.request.contextPath}salary">
+    <div>
+        Salary
+    </div>
+</a>
+<a href="${pageContext.request.contextPath}supply">
+    <div>
+        Supply
+    </div>
+</a>
 </body>
 </html>
